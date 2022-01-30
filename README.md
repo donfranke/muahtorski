@@ -1,3 +1,3 @@
 ![Alt text](https://donfranke.com/images/github-header-3.png "Don Franke")
 #Welcome!#
-Welcome to my GitHub site, which has a collection of repositories from various projects (many security-related) I've worked on over the years. More information about myself is also at [donfranke.com](https://donfranke.com/).
+Welcome to my GitHub site, which has a collection of repositories from various projects (many security-related) I've worked on over the years. More information about myself is also at [donfranke.com](https://donfranke.com/). There you can find links to articles I've written among other things. I enjoy coding and learning new things, and my goal for this year to is get a certification in the 3 leading cloud providers solutions. I've also been doing LeetCode problems off and on to learn more about algorithms and Rust. 
